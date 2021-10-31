@@ -1,4 +1,4 @@
-# Jennifer Wallace Epistaxis-Clip
+# Jennifer Wallace Epistaxis Clip
 A Better Epistaxis Clip
 
 ### Background
