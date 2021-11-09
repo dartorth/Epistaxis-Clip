@@ -40,5 +40,5 @@ The JWEC is developed that attempts to solve the problems identfied. Its efficac
 
 3. BMJ Best Practice (2018) Epistaxis. BMJ Publishing Group. http://bestpractice.bmj.com
 
-6 [The nasal Cavity((https://www.earthslab.com/anatomy/nasal-cavity)
+6.  [The Nasal Cavity, Earth's Lab](https://www.earthslab.com/anatomy/nasal-cavity)
 
