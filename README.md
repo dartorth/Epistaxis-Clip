@@ -8,7 +8,7 @@ Epistaxis is a common problem.  Although usually minor, 6-10% require medical ca
 ### Anatony
 
 [The septum](https://www.earthslab.com/anatomy/nasal-cavity/#content-medial-wall)
-[image](https://user-images.githubusercontent.com/82781139/140964446-53ad0db9-c6f6-4488-ba9b-c0db4285d2a7.png)
+![image](https://user-images.githubusercontent.com/82781139/140964446-53ad0db9-c6f6-4488-ba9b-c0db4285d2a7.png)
 [The Lateral Wall](https://www.earthslab.com/anatomy/nasal-cavity/#content-lateral-wall)
 ![image](https://user-images.githubusercontent.com/82781139/140964609-7237c556-ceae-4fed-9580-83a16c21d2fc.png)
 
