@@ -5,6 +5,14 @@ A Better Epistaxis Clip
 
 Epistaxis is a common problem.  Although usually minor, 6-10% require medical care [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5778404/).  95% of the bleeding occurs in Little's Area, a part of the septum with a rich blood supply.  This area is amenable to local pressure applied to the soft aprt of the nose distal to the nasal bones.  However a simple manually applied pressure either by the patient or a first aider is subject to inconsistent control and failure.   Implements that deliver this pressure are avaliable [2](https://emj.bmj.com/content/emermed/13/2/134.full.pdf).  The RhinoPinch[3](https://mdti.co.uk/rhinopinch-nasal-clip) is one such device, and is a cheap solution. These have several limitations. They inevitably occlude both nostrils, the use is limited to 15 minutes at a time because for potential for tissue ischaemia, there is no way to determine the actual pressure applied to the tissues and no adjuvant haemostasis occurs while the device is being implemented. Furthermore, the pressure delvered is not uniformly applied across the septum because of  shielding from the nasal bones and the possible decline in delivered pressure further away from the epicenter of the compression.  
 
+### Anatony
+
+[The septum](https://www.earthslab.com/anatomy/nasal-cavity/#content-medial-wall)
+[image](https://user-images.githubusercontent.com/82781139/140964446-53ad0db9-c6f6-4488-ba9b-c0db4285d2a7.png)
+[The Lateral Wall](https://www.earthslab.com/anatomy/nasal-cavity/#content-lateral-wall)
+![image](https://user-images.githubusercontent.com/82781139/140964609-7237c556-ceae-4fed-9580-83a16c21d2fc.png)
+
+
 ### The Aims
 
 The JWEC objectives are 1) increase likelihood that pressure will reach the bleeding point 2) there is some protection from over-application of pressure 3) spare areas that do not need to be compressed, 4) allow nasal breathing 5) deliver local adjuvant haemostatic agents.  In order to do this we first assess objectively the efficacy of conventional nasal occlusion methods, in terms of the the above parameters.
@@ -31,4 +39,6 @@ The JWEC is developed that attempts to solve the problems identfied. Its efficac
 4. [Foot Plantar Pressure Measurement System: A Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3444133/)
 
 3. BMJ Best Practice (2018) Epistaxis. BMJ Publishing Group. http://bestpractice.bmj.com
+
+6 [The nasal Cavity((https://www.earthslab.com/anatomy/nasal-cavity)
 
